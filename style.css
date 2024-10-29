@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: left;
+    background-image: url(https://distrito.me/wp-content/uploads/2022/05/10-livros-sobre-inovacao-para-ler-em-2022.jpeg);
+    background-size: cover;
+    color: rgb(65, 13, 138);
+  }
+  
+  h1 {
+    font-size: 48px;
+    margin-top: 50px;
+  }
+  
+  h3 {
+      color: rgb(116, 122, 180);
+  }
+  
+  h4{
+      color:rgb(154, 99, 218)
+  }
+  
+  .btn-pacman {
+    background-image: url(https://w7.pngwing.com/pngs/818/523/png-transparent-pixel-art-start-button-text-logo-number.png);
+    background-size: cover;
+    color: black;
+    border: none;
+    padding: 35px 90px;
+    text-align: top;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    margin: 10px 2px 0px 9px;
+    cursor: pointer;
+    border-radius: 30px;
+  }
